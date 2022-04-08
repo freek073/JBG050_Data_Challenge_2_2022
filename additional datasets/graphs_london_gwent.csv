@@ -1,0 +1,361 @@
+,Month,yearly,Police force,Crime type
+0,2015-01-01,1.836611077284681,Gwent,Vehicle crime
+1,2015-02-01,-17.175757219285096,Gwent,Vehicle crime
+2,2015-03-01,9.33201841502515,Gwent,Vehicle crime
+3,2015-04-01,24.388156087806838,Gwent,Vehicle crime
+4,2015-05-01,15.8173595479287,Gwent,Vehicle crime
+5,2015-06-01,-10.149710450117382,Gwent,Vehicle crime
+6,2015-07-01,8.05267653067394,Gwent,Vehicle crime
+7,2015-08-01,26.72879086467048,Gwent,Vehicle crime
+8,2015-09-01,-0.6694913451163342,Gwent,Vehicle crime
+9,2015-10-01,7.2916007303676,Gwent,Vehicle crime
+10,2015-11-01,26.89793032656791,Gwent,Vehicle crime
+11,2015-12-01,-1.3344622007960418,Gwent,Vehicle crime
+0,2015-01-01,-37.95974552675497,Gwent,Burglary
+1,2015-02-01,-62.17404232116585,Gwent,Burglary
+2,2015-03-01,-39.48023156473632,Gwent,Burglary
+3,2015-04-01,-20.362171349766992,Gwent,Burglary
+4,2015-05-01,-2.063981372368533,Gwent,Burglary
+5,2015-06-01,-0.8689430164647435,Gwent,Burglary
+6,2015-07-01,-8.498807901889109,Gwent,Burglary
+7,2015-08-01,-12.965528963943516,Gwent,Burglary
+8,2015-09-01,-7.209958482891121,Gwent,Burglary
+9,2015-10-01,-10.727750732811314,Gwent,Burglary
+10,2015-11-01,19.7139447706747,Gwent,Burglary
+11,2015-12-01,-28.19600385601529,Gwent,Burglary
+0,2015-01-01,-25.601509471019448,Gwent,Shoplifting
+1,2015-02-01,0.4595419070631331,Gwent,Shoplifting
+2,2015-03-01,10.174047496386413,Gwent,Shoplifting
+3,2015-04-01,5.936988406064362,Gwent,Shoplifting
+4,2015-05-01,9.563601742345126,Gwent,Shoplifting
+5,2015-06-01,5.994895885085978,Gwent,Shoplifting
+6,2015-07-01,-1.0765128670516149,Gwent,Shoplifting
+7,2015-08-01,6.383481782384802,Gwent,Shoplifting
+8,2015-09-01,-5.559289090769623,Gwent,Shoplifting
+9,2015-10-01,-3.37463261788242,Gwent,Shoplifting
+10,2015-11-01,1.9996662820784612,Gwent,Shoplifting
+11,2015-12-01,-9.963769293962404,Gwent,Shoplifting
+0,2015-01-01,-2.8871583492099497,Gwent,Robbery
+1,2015-02-01,-0.3080743537942805,Gwent,Robbery
+2,2015-03-01,-2.066213902953758,Gwent,Robbery
+3,2015-04-01,1.7923010451835135,Gwent,Robbery
+4,2015-05-01,2.23582328844804,Gwent,Robbery
+5,2015-06-01,2.479687227800533,Gwent,Robbery
+6,2015-07-01,-1.238999031650572,Gwent,Robbery
+7,2015-08-01,2.476664963088306,Gwent,Robbery
+8,2015-09-01,2.010527511927173,Gwent,Robbery
+9,2015-10-01,1.5676382496811228,Gwent,Robbery
+10,2015-11-01,-2.896765215616503,Gwent,Robbery
+11,2015-12-01,1.1210478159842283,Gwent,Robbery
+0,2015-01-01,-10.619961916427876,Gwent,Bicycle theft
+1,2015-02-01,-8.410148036604305,Gwent,Bicycle theft
+2,2015-03-01,-4.451206058244602,Gwent,Bicycle theft
+3,2015-04-01,4.136327402124611,Gwent,Bicycle theft
+4,2015-05-01,0.3612489961623213,Gwent,Bicycle theft
+5,2015-06-01,5.260795073645121,Gwent,Bicycle theft
+6,2015-07-01,14.04931782534706,Gwent,Bicycle theft
+7,2015-08-01,7.118911023608963,Gwent,Bicycle theft
+8,2015-09-01,4.584774476645106,Gwent,Bicycle theft
+9,2015-10-01,5.917440593577016,Gwent,Bicycle theft
+10,2015-11-01,-1.0578809530212443,Gwent,Bicycle theft
+11,2015-12-01,-11.170282513420306,Gwent,Bicycle theft
+0,2015-01-01,-31.463924132342115,Gwent,Other theft
+1,2015-02-01,-31.70698423790661,Gwent,Other theft
+2,2015-03-01,-9.664900798154514,Gwent,Other theft
+3,2015-04-01,8.839662465567816,Gwent,Other theft
+4,2015-05-01,18.34099170510088,Gwent,Other theft
+5,2015-06-01,38.82199650943867,Gwent,Other theft
+6,2015-07-01,58.63217250261333,Gwent,Other theft
+7,2015-08-01,37.94798060232248,Gwent,Other theft
+8,2015-09-01,20.40874175266495,Gwent,Other theft
+9,2015-10-01,4.371135704927251,Gwent,Other theft
+10,2015-11-01,-3.4627551185846155,Gwent,Other theft
+11,2015-12-01,-46.83527670665905,Gwent,Other theft
+0,2015-01-01,-3.2846679019148377,Gwent,Theft from the person
+1,2015-02-01,-1.3417837524574108,Gwent,Theft from the person
+2,2015-03-01,-3.856875884238053,Gwent,Theft from the person
+3,2015-04-01,-0.9061281976454052,Gwent,Theft from the person
+4,2015-05-01,1.5663615474216093,Gwent,Theft from the person
+5,2015-06-01,1.5100101732835634,Gwent,Theft from the person
+6,2015-07-01,4.79757239902882,Gwent,Theft from the person
+7,2015-08-01,0.3410240411708478,Gwent,Theft from the person
+8,2015-09-01,-3.752409198078808,Gwent,Theft from the person
+9,2015-10-01,1.1361090326512764,Gwent,Theft from the person
+10,2015-11-01,3.5771503233612907,Gwent,Theft from the person
+11,2015-12-01,5.794162755474822,Gwent,Theft from the person
+0,2015-01-01,-445.65384126510327,Gwent,Sum of crimes
+1,2015-02-01,-608.291457216061,Gwent,Sum of crimes
+2,2015-03-01,-327.1510084285859,Gwent,Sum of crimes
+3,2015-04-01,431.3147991956532,Gwent,Sum of crimes
+4,2015-05-01,494.3294985200056,Gwent,Sum of crimes
+5,2015-06-01,389.71932196374246,Gwent,Sum of crimes
+6,2015-07-01,627.9812176434802,Gwent,Sum of crimes
+7,2015-08-01,229.31457604636876,Gwent,Sum of crimes
+8,2015-09-01,68.53918356256568,Gwent,Sum of crimes
+9,2015-10-01,223.4158986983768,Gwent,Sum of crimes
+10,2015-11-01,-89.21412979517194,Gwent,Sum of crimes
+11,2015-12-01,-517.9391613590891,Gwent,Sum of crimes
+0,2015-01-01,-152.12074028704816,Gwent,Anti-social behaviour
+1,2015-02-01,-189.6913575034499,Gwent,Anti-social behaviour
+2,2015-03-01,-240.1101361125914,Gwent,Anti-social behaviour
+3,2015-04-01,426.8661229003216,Gwent,Anti-social behaviour
+4,2015-05-01,287.14088949751795,Gwent,Anti-social behaviour
+5,2015-06-01,130.9438930789991,Gwent,Anti-social behaviour
+6,2015-07-01,195.72826207051617,Gwent,Anti-social behaviour
+7,2015-08-01,87.29848586405149,Gwent,Anti-social behaviour
+8,2015-09-01,12.346659754263978,Gwent,Anti-social behaviour
+9,2015-10-01,181.10312465506397,Gwent,Anti-social behaviour
+10,2015-11-01,-43.35231707055715,Gwent,Anti-social behaviour
+11,2015-12-01,-213.98689263280724,Gwent,Anti-social behaviour
+0,2015-01-01,-0.153484217819178,Gwent,Possession of weapons
+1,2015-02-01,-2.13652006270638,Gwent,Possession of weapons
+2,2015-03-01,0.2039192231557987,Gwent,Possession of weapons
+3,2015-04-01,-0.4637434503658397,Gwent,Possession of weapons
+4,2015-05-01,0.254540612885352,Gwent,Possession of weapons
+5,2015-06-01,0.2463109330142894,Gwent,Possession of weapons
+6,2015-07-01,3.3862183877272845,Gwent,Possession of weapons
+7,2015-08-01,-1.7536327370025313,Gwent,Possession of weapons
+8,2015-09-01,-0.4673629322318152,Gwent,Possession of weapons
+9,2015-10-01,-2.311022521942191,Gwent,Possession of weapons
+10,2015-11-01,0.2764794884755042,Gwent,Possession of weapons
+11,2015-12-01,-2.1820012907014386,Gwent,Possession of weapons
+0,2015-01-01,9.653597002304403,Gwent,Drugs
+1,2015-02-01,-2.474893868385931,Gwent,Drugs
+2,2015-03-01,-0.8256219654938532,Gwent,Drugs
+3,2015-04-01,3.6303037049524223,Gwent,Drugs
+4,2015-05-01,16.000902513125578,Gwent,Drugs
+5,2015-06-01,11.13778277430854,Gwent,Drugs
+6,2015-07-01,9.275568243131753,Gwent,Drugs
+7,2015-08-01,-8.21481403702563,Gwent,Drugs
+8,2015-09-01,-3.299532523680726,Gwent,Drugs
+9,2015-10-01,-5.087081479424769,Gwent,Drugs
+10,2015-11-01,0.8575052480855812,Gwent,Drugs
+11,2015-12-01,-0.4296177475073554,Gwent,Drugs
+0,2015-01-01,-8.861545851368907,Gwent,Other crime
+1,2015-02-01,-11.318642460524734,Gwent,Other crime
+2,2015-03-01,3.4798550771185983,Gwent,Other crime
+3,2015-04-01,8.243979089157861,Gwent,Other crime
+4,2015-05-01,14.88491843366247,Gwent,Other crime
+5,2015-06-01,7.126475752437059,Gwent,Other crime
+6,2015-07-01,8.62445871901144,Gwent,Other crime
+7,2015-08-01,-6.79568993937896,Gwent,Other crime
+8,2015-09-01,-4.602231651339648,Gwent,Other crime
+9,2015-10-01,-0.2996741214075152,Gwent,Other crime
+10,2015-11-01,-4.104360480807235,Gwent,Other crime
+11,2015-12-01,-18.803205358855525,Gwent,Other crime
+0,2015-01-01,-53.57558168898456,Gwent,Criminal damage and arson
+1,2015-02-01,-101.2168677640435,Gwent,Criminal damage and arson
+2,2015-03-01,-78.37986421616876,Gwent,Criminal damage and arson
+3,2015-04-01,-31.531450392325567,Gwent,Criminal damage and arson
+4,2015-05-01,-7.20854578047443,Gwent,Criminal damage and arson
+5,2015-06-01,-12.063685556476264,Gwent,Criminal damage and arson
+6,2015-07-01,49.19699185693924,Gwent,Criminal damage and arson
+7,2015-08-01,-5.68147126503115,Gwent,Criminal damage and arson
+8,2015-09-01,-7.782378247430503,Gwent,Criminal damage and arson
+9,2015-10-01,7.291086291088196,Gwent,Criminal damage and arson
+10,2015-11-01,-2.2628988858759844,Gwent,Criminal damage and arson
+11,2015-12-01,-6.84536052790588,Gwent,Criminal damage and arson
+0,2015-01-01,-62.51747949631605,Gwent,Public order
+1,2015-02-01,-79.17118791135528,Gwent,Public order
+2,2015-03-01,-9.898967331871916,Gwent,Public order
+3,2015-04-01,30.431338341660123,Gwent,Public order
+4,2015-05-01,61.56826411351824,Gwent,Public order
+5,2015-06-01,86.56575202660729,Gwent,Public order
+6,2015-07-01,119.70337387030472,Gwent,Public order
+7,2015-08-01,44.24077237316636,Gwent,Public order
+8,2015-09-01,16.61403209848741,Gwent,Public order
+9,2015-10-01,-3.820348078878612,Gwent,Public order
+10,2015-11-01,-46.05898082974146,Gwent,Public order
+11,2015-12-01,-94.21017454688,Gwent,Public order
+0,2015-01-01,-59.13821753894601,Gwent,Violence and sexual offences
+1,2015-02-01,-97.2879409332668,Gwent,Violence and sexual offences
+2,2015-03-01,44.357614206268906,Gwent,Violence and sexual offences
+3,2015-04-01,-18.282429318103947,Gwent,Violence and sexual offences
+4,2015-05-01,77.67377120655208,Gwent,Violence and sexual offences
+5,2015-06-01,113.45254848694758,Gwent,Violence and sexual offences
+6,2015-07-01,148.1548281535981,Gwent,Violence and sexual offences
+7,2015-08-01,26.174352758810464,Gwent,Violence and sexual offences
+8,2015-09-01,12.27324336524212,Gwent,Violence and sexual offences
+9,2015-10-01,2.555373668069973,Gwent,Violence and sexual offences
+10,2015-11-01,-27.872703650216728,Gwent,Violence and sexual offences
+11,2015-12-01,-79.739445574778,Gwent,Violence and sexual offences
+0,2015-01-01,-0.5704410873245511,City of London,Criminal damage and arson
+1,2015-02-01,-0.4619352618424452,City of London,Criminal damage and arson
+2,2015-03-01,1.728907490836699,City of London,Criminal damage and arson
+3,2015-04-01,-2.909789447478225,City of London,Criminal damage and arson
+4,2015-05-01,-5.055667721721183,City of London,Criminal damage and arson
+5,2015-06-01,-2.114609053412601,City of London,Criminal damage and arson
+6,2015-07-01,0.1410444534536511,City of London,Criminal damage and arson
+7,2015-08-01,-0.1759214481809442,City of London,Criminal damage and arson
+8,2015-09-01,1.184423302657618,City of London,Criminal damage and arson
+9,2015-10-01,4.831254598376414,City of London,Criminal damage and arson
+10,2015-11-01,-5.177325163721813,City of London,Criminal damage and arson
+11,2015-12-01,0.7664827530092033,City of London,Criminal damage and arson
+0,2015-01-01,-9.022660893109164,City of London,Bicycle theft
+1,2015-02-01,-12.946907002270516,City of London,Bicycle theft
+2,2015-03-01,-8.973510891976701,City of London,Bicycle theft
+3,2015-04-01,0.3043553477223011,City of London,Bicycle theft
+4,2015-05-01,-2.775703568130865,City of London,Bicycle theft
+5,2015-06-01,5.635239120119806,City of London,Bicycle theft
+6,2015-07-01,11.25382498503193,City of London,Bicycle theft
+7,2015-08-01,14.09704986280567,City of London,Bicycle theft
+8,2015-09-01,13.457483900599602,City of London,Bicycle theft
+9,2015-10-01,9.793479467376276,City of London,Bicycle theft
+10,2015-11-01,-1.866741238213911,City of London,Bicycle theft
+11,2015-12-01,-15.44758167916958,City of London,Bicycle theft
+0,2015-01-01,4.102943563409413,City of London,Drugs
+1,2015-02-01,-6.362273200087964,City of London,Drugs
+2,2015-03-01,-3.2276041533173165,City of London,Drugs
+3,2015-04-01,-1.5835921596366112,City of London,Drugs
+4,2015-05-01,-5.388119195749973,City of London,Drugs
+5,2015-06-01,-4.275143211206734,City of London,Drugs
+6,2015-07-01,1.739956423605024,City of London,Drugs
+7,2015-08-01,1.796913814620491,City of London,Drugs
+8,2015-09-01,4.661866862363585,City of London,Drugs
+9,2015-10-01,-2.845973088982982,City of London,Drugs
+10,2015-11-01,2.344469560882714,City of London,Drugs
+11,2015-12-01,0.9486047943326008,City of London,Drugs
+0,2015-01-01,-0.0418267431608962,City of London,Robbery
+1,2015-02-01,-0.324849528016343,City of London,Robbery
+2,2015-03-01,0.2294654516557129,City of London,Robbery
+3,2015-04-01,0.269477435370113,City of London,Robbery
+4,2015-05-01,-0.749891803039657,City of London,Robbery
+5,2015-06-01,-0.8338569111337629,City of London,Robbery
+6,2015-07-01,2.261211336263393,City of London,Robbery
+7,2015-08-01,-0.1906602347030092,City of London,Robbery
+8,2015-09-01,0.459344821583829,City of London,Robbery
+9,2015-10-01,-1.001069530849631,City of London,Robbery
+10,2015-11-01,1.89288248614634,City of London,Robbery
+11,2015-12-01,1.9007125319018177,City of London,Robbery
+0,2015-01-01,1.6156965228091995,City of London,Vehicle crime
+1,2015-02-01,-1.3193135310008328,City of London,Vehicle crime
+2,2015-03-01,-2.7867406375517167,City of London,Vehicle crime
+3,2015-04-01,-5.026238097478209,City of London,Vehicle crime
+4,2015-05-01,0.5459490769870925,City of London,Vehicle crime
+5,2015-06-01,-2.2512150862488647,City of London,Vehicle crime
+6,2015-07-01,0.4335690918818107,City of London,Vehicle crime
+7,2015-08-01,-0.2647100789383585,City of London,Vehicle crime
+8,2015-09-01,0.987734319017576,City of London,Vehicle crime
+9,2015-10-01,2.021523057124719,City of London,Vehicle crime
+10,2015-11-01,0.0324238201366728,City of London,Vehicle crime
+11,2015-12-01,-2.7316377196545325,City of London,Vehicle crime
+0,2015-01-01,9.58459672928206,City of London,Anti-social behaviour
+1,2015-02-01,1.902361533994113,City of London,Anti-social behaviour
+2,2015-03-01,15.788583630935772,City of London,Anti-social behaviour
+3,2015-04-01,2.26314395142864,City of London,Anti-social behaviour
+4,2015-05-01,-19.69210228932737,City of London,Anti-social behaviour
+5,2015-06-01,7.620928668711455,City of London,Anti-social behaviour
+6,2015-07-01,8.11104384277752,City of London,Anti-social behaviour
+7,2015-08-01,5.812428669045763,City of London,Anti-social behaviour
+8,2015-09-01,7.71189441322766,City of London,Anti-social behaviour
+9,2015-10-01,19.312156702016456,City of London,Anti-social behaviour
+10,2015-11-01,16.697920189080307,City of London,Anti-social behaviour
+11,2015-12-01,10.14676537158561,City of London,Anti-social behaviour
+0,2015-01-01,-11.391602625189206,City of London,Violence and sexual offences
+1,2015-02-01,-6.959750817103887,City of London,Violence and sexual offences
+2,2015-03-01,13.071509829154694,City of London,Violence and sexual offences
+3,2015-04-01,-5.551489528745897,City of London,Violence and sexual offences
+4,2015-05-01,-15.316904225913223,City of London,Violence and sexual offences
+5,2015-06-01,1.0666411200070751,City of London,Violence and sexual offences
+6,2015-07-01,7.413372618473126,City of London,Violence and sexual offences
+7,2015-08-01,1.7247293653645963,City of London,Violence and sexual offences
+8,2015-09-01,4.725267687140975,City of London,Violence and sexual offences
+9,2015-10-01,21.75237698243638,City of London,Violence and sexual offences
+10,2015-11-01,1.4727009963363535,City of London,Violence and sexual offences
+11,2015-12-01,16.288407009862716,City of London,Violence and sexual offences
+0,2015-01-01,-1.2483651172952108,City of London,Shoplifting
+1,2015-02-01,-1.6833297666768268,City of London,Shoplifting
+2,2015-03-01,7.806221422005533,City of London,Shoplifting
+3,2015-04-01,3.5764667996384163,City of London,Shoplifting
+4,2015-05-01,-2.886552574205851,City of London,Shoplifting
+5,2015-06-01,3.116855773406632,City of London,Shoplifting
+6,2015-07-01,4.114594940439009,City of London,Shoplifting
+7,2015-08-01,6.971678512336554,City of London,Shoplifting
+8,2015-09-01,-2.346512149382469,City of London,Shoplifting
+9,2015-10-01,8.071273769025478,City of London,Shoplifting
+10,2015-11-01,3.917760926630792,City of London,Shoplifting
+11,2015-12-01,-3.6656590211209727,City of London,Shoplifting
+0,2015-01-01,-2.584227376736607,City of London,Other crime
+1,2015-02-01,-2.5097731463923587,City of London,Other crime
+2,2015-03-01,-1.1625075708981056,City of London,Other crime
+3,2015-04-01,-3.860241229089725,City of London,Other crime
+4,2015-05-01,-1.082514976256404,City of London,Other crime
+5,2015-06-01,-1.762421932392213,City of London,Other crime
+6,2015-07-01,-0.8613436894587778,City of London,Other crime
+7,2015-08-01,0.6978918944042093,City of London,Other crime
+8,2015-09-01,-0.6196689805022485,City of London,Other crime
+9,2015-10-01,0.1402234956293393,City of London,Other crime
+10,2015-11-01,-0.7945819963043219,City of London,Other crime
+11,2015-12-01,-1.9043786694030589,City of London,Other crime
+0,2015-01-01,0.3154091355951652,City of London,Theft from the person
+1,2015-02-01,6.09897515027026,City of London,Theft from the person
+2,2015-03-01,5.016863149635196,City of London,Theft from the person
+3,2015-04-01,-12.280759321157166,City of London,Theft from the person
+4,2015-05-01,-4.841244168178556,City of London,Theft from the person
+5,2015-06-01,-4.470841491428191,City of London,Theft from the person
+6,2015-07-01,0.5459418804704671,City of London,Theft from the person
+7,2015-08-01,-0.561056402641641,City of London,Theft from the person
+8,2015-09-01,-1.6438855551661615,City of London,Theft from the person
+9,2015-10-01,5.647611259971415,City of London,Theft from the person
+10,2015-11-01,10.841791530647049,City of London,Theft from the person
+11,2015-12-01,14.967944724543962,City of London,Theft from the person
+0,2015-01-01,-0.4897114071019799,City of London,Burglary
+1,2015-02-01,-2.174924059892762,City of London,Burglary
+2,2015-03-01,2.037731921598408,City of London,Burglary
+3,2015-04-01,5.628664533174453,City of London,Burglary
+4,2015-05-01,5.369662969327527,City of London,Burglary
+5,2015-06-01,-1.428770255171438,City of London,Burglary
+6,2015-07-01,-2.1637052418296068,City of London,Burglary
+7,2015-08-01,0.7001716908303423,City of London,Burglary
+8,2015-09-01,-2.230313351777095,City of London,Burglary
+9,2015-10-01,-0.1221753745019319,City of London,Burglary
+10,2015-11-01,-1.1540215877484288,City of London,Burglary
+11,2015-12-01,2.33949798581095,City of London,Burglary
+0,2015-01-01,-11.296046328909284,City of London,Other theft
+1,2015-02-01,11.71411528505778,City of London,Other theft
+2,2015-03-01,23.03396738028101,City of London,Other theft
+3,2015-04-01,5.301700626254424,City of London,Other theft
+4,2015-05-01,-2.058620978034224,City of London,Other theft
+5,2015-06-01,-4.706059266899688,City of London,Other theft
+6,2015-07-01,-10.205185142157823,City of London,Other theft
+7,2015-08-01,-12.660834027188722,City of London,Other theft
+8,2015-09-01,-10.406214004783042,City of London,Other theft
+9,2015-10-01,-0.7256541707285532,City of London,Other theft
+10,2015-11-01,4.495536924916211,City of London,Other theft
+11,2015-12-01,23.022240029471423,City of London,Other theft
+0,2015-01-01,-28.301933557664597,City of London,Sum of crimes
+1,2015-02-01,-21.232342723243352,City of London,Sum of crimes
+2,2015-03-01,55.76817372089401,City of London,Sum of crimes
+3,2015-04-01,-12.753759943805912,City of London,Sum of crimes
+4,2015-05-01,-57.57995102707679,City of London,Sum of crimes
+5,2015-06-01,2.9318537278515446,City of London,Sum of crimes
+6,2015-07-01,36.19401353682782,City of London,Sum of crimes
+7,2015-08-01,22.80756661379816,City of London,Sum of crimes
+8,2015-09-01,18.428950722438383,City of London,Sum of crimes
+9,2015-10-01,68.64166645031727,City of London,Sum of crimes
+10,2015-11-01,41.43461795751964,City of London,Sum of crimes
+11,2015-12-01,55.67922996548691,City of London,Sum of crimes
+0,2015-01-01,-2.144062686364175,City of London,Public order
+1,2015-02-01,-0.9963321202376192,City of London,Public order
+2,2015-03-01,4.433347654648526,City of London,Public order
+3,2015-04-01,-0.0302823410974155,City of London,Public order
+4,2015-05-01,-3.1770105770509143,City of London,Public order
+5,2015-06-01,5.7517799423050215,City of London,Public order
+6,2015-07-01,12.36815528115466,City of London,Public order
+7,2015-08-01,4.104409770678793,City of London,Public order
+8,2015-09-01,1.8452891901465829,City of London,Public order
+9,2015-10-01,2.585500201706672,City of London,Public order
+10,2015-11-01,5.311696021107285,City of London,Public order
+11,2015-12-01,5.283048506550338,City of London,Public order
+0,2015-01-01,0.2591289800521726,City of London,Possession of weapons
+1,2015-02-01,-0.912939971529598,City of London,Possession of weapons
+2,2015-03-01,1.279053427619981,City of London,Possession of weapons
+3,2015-04-01,1.386001976550476,City of London,Possession of weapons
+4,2015-05-01,-0.583078059234811,City of London,Possession of weapons
+5,2015-06-01,1.2836118065666553,City of London,Possession of weapons
+6,2015-07-01,0.4490564475417953,City of London,Possession of weapons
+7,2015-08-01,0.6599562808233921,City of London,Possession of weapons
+8,2015-09-01,1.1440182291933867,City of London,Possession of weapons
+9,2015-10-01,-0.1799936133143469,City of London,Possession of weapons
+10,2015-11-01,1.2686710849957268,City of London,Possession of weapons
+11,2015-12-01,1.5660431280589815,City of London,Possession of weapons
