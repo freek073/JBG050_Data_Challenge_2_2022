@@ -3,8 +3,10 @@
 
 The files with the data required to run the dashboard are the provided dataset and
 files contained in the folder "additional datasets" which can be found in this repository.
+To get the msoa.geojson file, please use the attached download link. The size of this file is too
+large to be uploaded to GitHub. Save the file as "msoa.geojson".
 
-Both should be added to the unzipped folder "DC2 dashboard", into a separate folder named "files".
+Thet should be added to the unzipped folder "DC2 dashboard", into a separate folder named "files".
 The structure should be the following: \DC2 Dashboard\files\.
 
 Alternatively, the following link can be used to download the scripts with all the filed included:
